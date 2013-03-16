@@ -1,0 +1,33 @@
+<s id="top" title="Star Trek - We the Living Dead">
+
+[Note - This is not a real episode of <i>Star Trek Deep Space Nine</i> but one
+invented by <a href="http://www.shlomifish.org/">Shlomi Fish</a>. Being
+a piece of Star Trek fan-fiction, Fish does not make a direct claim to some of
+the characters and concepts presented in this story.]
+
+[Note - This story is fictitious and the characters in it are fictional.]
+
+[Introduction -  TODO -  FILL IN ]
+
+[Title - Star Trek DS9 -  “We, the Living Dead”]
+
+[Author - Shlomi Fish]
+
+[Date - 30-March-2007]
+
+<s id="watching_space" title="מבטים בחלל">
+
+[בשיר, דאקס וג'ייק עומדים ומביטים בחלל.]
+
+בשיר: אה, החלל.
+
+דאקס: כן, החלל. שום דבר חוץ מכמעט שום דבר לכל הכיוונים.
+
+ג'ייק: היי, הסתכלו בזה. ]ספינת חלל יוצאת מ-Warp במרחק[.
+
+</s>
+
+<!-- End of the “Top” Scene -->
+
+</s>
+
