@@ -23,9 +23,12 @@ the characters and concepts presented in this story.]
 
 דאקס: כן, החלל. שום דבר חוץ מכמעט שום דבר לכל הכיוונים.
 
-ג'ייק: היי, הסתכלו בזה. ]ספינת חלל יוצאת מ-Warp במרחק[.
+ג'ייק: היי, הסתכלו בזה. [ספינת חלל יוצאת מ-Warp במרחק].
+
+<!-- End of the "watching_space" scene -->
 
 </s>
+
 
 <!-- End of the “Top” Scene -->
 
