@@ -1,12 +1,13 @@
 =encoding utf8
 
-=head1 Humanity - The Movie
+=head1 Star Trek: “We, the Living Dead” - Source Repository.
 
 =head2 About
 
-This repository contains the sources for I<Humanity - The Movie>,
-an original screenplay by Shlomi Fish (L<http://www.shlomifish.org/>), that
-parodies humanity, and particularly modern life.
+This repository contains the sources for I<Star Trek>: “We, the Living Dead”,
+a screenplay by Shlomi Fish (L<http://www.shlomifish.org/>), that serves as
+fan fiction to the show I<Star Trek: “We, the Living Dead”> and several other
+influences.
 
 =head2 Links
 
@@ -14,18 +15,19 @@ parodies humanity, and particularly modern life.
 
 =item * Homepage
 
-L<http://www.shlomifish.org/humour/humanity/>
+L<http://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/>
+
+=item * On the Star Trek Fanfiction Wikia
+
+L<http://stexpanded.wikia.com/wiki/We,_the_Living_Dead>
 
 =back
 
 =head2 Building
 
-Go to C<humanity/screenplay/> and type C<make> .
+Go to C<star-trek--we-the-living-dead/screenplay/> and type C<make> .
 
 =head2 Ideas document / plot summary
 
-The file C<humanity/ideas/ideas.txt> contains some ideas to put into
-the story.
-
-=cut
-
+The file C<star-trek--we-the-living-dead/ideas/ideas.txt> contains some ideas
+to put into the story.

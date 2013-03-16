@@ -4,8 +4,16 @@
 
 =head2 Text
 
-The screenplay “Humanity - The Movie” is original,
-and as far as I am concerned is Copyright by Shlomi Fish, 2001 and
+The text for the screenplay “Star Trek: We, the Living Dead” is mostly
+original, and as far as I am concerned is Copyright by Shlomi Fish, 2011 and
 available under the
 L<http://creativecommons.org/licenses/by-sa/3.0/>, either version 3.0 or at
-your option any later version.
+your option any later version. However, it makes use of characters and
+concepts from
+L<http://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine> , from
+L<http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_%28TV_series%29> ,
+and from other sources, some of which are already public-domain.
+
+As a result, the verdict is that this is fan-fiction and derivative work and
+B<please don’t sue us> .
+
