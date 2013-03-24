@@ -8,6 +8,8 @@ FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
 WORK_BASENAME = Star-Trek--We-the-Living-Dead
 DOCS_BASE = $(WORK_BASENAME) $(WORK_BASENAME)-hebrew
 
+ENG_EPUB = $(WORK_BASENAME).epub
+
 DOCS_SCREENPLAY_TEXT = $(patsubst %,%.screenplay-text.txt,$(DOCS_BASE))
 DOCS_SCREENPLAY_XML = $(patsubst %,%.screenplay-xml.xml,$(DOCS_BASE))
 DOCS_SCREENPLAY_XHTML = $(patsubst %,%.screenplay-text.xhtml,$(DOCS_BASE))
@@ -25,7 +27,7 @@ DOCBOOK5_XSL_CUSTOM_FO_XSLT_STYLESHEET := $(HOMEPAGE)/lib/sgml/shlomif-docbook/x
 
 SELINA_UPLOAD_TEMP_DEST = temp-selina-mandrake-P9n7ybv3wq2t
 
-all: $(DOCS_SCREENPLAY_XHTML) $(ENG_EPUB) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
+all: $(DOCS_SCREENPLAY_XHTML) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
 
 upload:
 	rsync -v --progress -a $(FILES) $${HOMEPAGE_SSH_PATH}/$(SELINA_UPLOAD_TEMP_DEST)/
@@ -60,8 +62,6 @@ DOCBOOK_RNG = ./rng/docbook.rng
 # XSL_SNAPSHOT_HOME = $(HOME)/Download/unpack/file/docbook/docbook-xsl-ns-snapshot
 XSL_SNAPSHOT_HOME = $(HOME)/Download/unpack/file/docbook/docbook-xsl-snapshot/
 
-EPUB_SCRIPT = $(XSL_SNAPSHOT_HOME)/epub/bin/dbtoepub
-
 $(ENG_HTML_FOR_OOO): $(ENG_XHTML)
 	cat $< | perl -lne 'print unless m{\A<\?xml}' > $@
 
@@ -75,11 +75,6 @@ openoffice: oohtml
 
 .PHONY: epub_ff
 
-epub: $(ENG_EPUB)
-
-epub_ff: epub
-	firefox $(ENG_EPUB)
-
 clean:
 	rm -f $(DOCS_SCREENPLAY_XHTML) $(DOCS_SCREENPLAY_XML)
 
@@ -88,3 +83,14 @@ clean:
 
 linview: $(DOCS_SCREENPLAY_XHTML_AS_HTML)
 	xdg-open $<
+
+epub: $(ENG_EPUB)
+
+EPUB_SCRIPT = scripts/prepare-epub.pl
+
+$(ENG_EPUB): $(DOCS_SCREENPLAY_XHTML) $(EPUB_SCRIPT)
+	perl $(EPUB_SCRIPT) --output $@ $(DOCS_SCREENPLAY_XHTML)
+
+epub_ff: epub
+	firefox $(ENG_EPUB)
+
