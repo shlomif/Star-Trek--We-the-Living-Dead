@@ -100,7 +100,7 @@ terminates or not?
 
 Dax: The Halting problem…
 
-Sisko: Yes, Commander, I know. This has logically proven to be impossible,
+Sisko: Yes, Commander, I know. This has logically been proven to be impossible,
 and the proof is very simple. So you cannot do it unless you can somehow
 change logic.
 
@@ -120,7 +120,7 @@ just have a sufficiently advanced technology.
 Q: Captain Sisko - I’m always amazed at how stupid your race is, and how much
 wrong you can be.
 
-Jake: You mean - you can change logic?
+Jake: You mean - you <b>can</b> change logic?
 
 Q: Oh, no. This time you were right. Yes, I am not omnipotent. I am only very
 technologically advanced. And yes, I am a humanoid.
