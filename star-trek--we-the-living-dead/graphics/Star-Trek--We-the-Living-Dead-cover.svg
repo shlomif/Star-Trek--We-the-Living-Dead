@@ -48,14 +48,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="375"
-     inkscape:cy="521.42857"
+     inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="801"
      inkscape:window-height="888"
-     inkscape:window-x="0"
-     inkscape:window-y="19"
+     inkscape:window-x="710"
+     inkscape:window-y="82"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -79,14 +79,20 @@
        width="748.57141"
        height="1042.8572"
        x="0"
-       y="3.7907541" />
+       y="3.7907541"
+       inkscape:export-filename="/home/shlomif/Docs/homepage/homepage/trunk/lib/screenplay-xml/from-vcs/Star-Trek--We-the-Living-Dead/star-trek--we-the-living-dead/graphics/text3043.png"
+       inkscape:export-xdpi="59.970016"
+       inkscape:export-ydpi="59.970016" />
     <text
        xml:space="preserve"
        style="font-size:72px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Italic"
        x="379.92578"
        y="78.076477"
        id="text3031"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/shlomif/Docs/homepage/homepage/trunk/lib/screenplay-xml/from-vcs/Star-Trek--We-the-Living-Dead/star-trek--we-the-living-dead/graphics/text3043.png"
+       inkscape:export-xdpi="59.970016"
+       inkscape:export-ydpi="59.970016"><tspan
          sodipodi:role="line"
          id="tspan3033"
          x="379.92578"
@@ -108,7 +114,10 @@
        x="40.000004"
        y="300.93359"
        id="text3037"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/shlomif/Docs/homepage/homepage/trunk/lib/screenplay-xml/from-vcs/Star-Trek--We-the-Living-Dead/star-trek--we-the-living-dead/graphics/text3043.png"
+       inkscape:export-xdpi="59.970016"
+       inkscape:export-ydpi="59.970016"><tspan
          sodipodi:role="line"
          id="tspan3039"
          x="40.000004"
@@ -119,7 +128,9 @@
        x="378.8938"
        y="729.19427"
        id="text3043"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="59.970016"
+       inkscape:export-ydpi="59.970016"><tspan
          sodipodi:role="line"
          id="tspan3045"
          x="378.8938"
