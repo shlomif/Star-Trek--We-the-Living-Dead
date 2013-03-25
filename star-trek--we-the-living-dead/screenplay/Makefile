@@ -94,3 +94,5 @@ $(ENG_EPUB): $(DOCS_SCREENPLAY_XHTML) $(EPUB_SCRIPT)
 epub_ff: epub
 	firefox $(ENG_EPUB)
 
+epub_ok: epub
+	okular $(ENG_EPUB)
