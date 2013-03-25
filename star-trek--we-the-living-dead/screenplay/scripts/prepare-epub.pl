@@ -149,6 +149,8 @@ io->file($target_dir . '/' . $json_filename)->utf8->print(
                 "Buffy",
                 "Deep Space Nine",
                 "DS9",
+                "FICTION/Humorous",
+                "FICTION/Science Fiction/General",
                 "History",
                 "Near East History",
                 "Judaism",
