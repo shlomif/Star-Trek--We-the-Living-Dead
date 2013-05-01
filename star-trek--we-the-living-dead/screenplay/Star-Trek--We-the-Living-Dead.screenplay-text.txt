@@ -7,7 +7,7 @@ the characters and concepts presented in this story.]
 
 [Note - This story is fictitious and the characters in it are fictional.]
 
-[Introduction -  TODO -  FILL IN ]
+[Introduction -  TODO - FILL IN.]
 
 [Title - Star Trek DS9 -  “We, the Living Dead”]
 
@@ -106,7 +106,7 @@ change logic.
 
 Q: And can I, being a Q and all?
 
-[ Silence for a moment. ]
+[Silence for a moment.]
 
 Sisko: I don’t think you can. I think it is inconceivable to think you can
 change logic. In fact, I don’t think you are omnipotent. I just think you
@@ -458,7 +458,7 @@ Ka, La, Ma, Na, O, Pa, Qua, Ra, Sa, Ta, U, Va, Wa, Xa [= Kha], Ya, Za
 Énglish Boy: Tehe ne-o-te-tse-heh konspeerasi for establishing te-he
 semeeteec cooltooré!
 
-Q: [Interrupting. ] The people were mad, he mispronounced Shem’s name. He
+Q: [Interrupting.] The people were mad, he mispronounced Shem’s name. He
 formed a conspiracy, and he wanted to establish yet another culture.
 
 [Back to the people]
@@ -655,7 +655,7 @@ Odo: I guess I’ll also join you.
 Q2: OK, cool. We’ll let you kids do last minute arrangements and we’ll meet
 here in 45 minutes. Meanwhile I’ll have a drink.
 
-[ They spread. ]
+[They spread.]
 
 Q: I could use one too. Quark, how much would that be?
 
@@ -736,14 +736,12 @@ baby) because some of their Terran friends became attached to me.
 
 Dax: And I suppose your parents missed you?
 
-[
-1st level Q: A conscious organism.<br />
+[1st level Q: A conscious organism.<br />
 2nd level Q: A vampire - capable of living forever.<br />
 3rd level Q: An immortal - cannot be killed.<br />
 4th level Q: Capable of teleporting within the same planet.<br />
 5th level Q: Capable of any teleportation.<br />
-6th level Q: Capable of teleporting himself and others.<br />
-]
+6th level Q: Capable of teleporting himself and others.]
 
 Amanda: That too, and they decided to meet me. So I was temporarily EnQed to
 a very high Q level, and then decided to come here. I met my parents and
@@ -954,7 +952,7 @@ of the past.
 
 Katie: Right, like King David. Oh, can we please meet him?
 
-Ken Thompson: [Clicks a few keys. ] Dave, can you come here for a sec?
+Ken Thompson: [Clicks a few keys.] Dave, can you come here for a sec?
 
 [The door opens and a moderately short man, looks in his thirties, appears. He
 has dark red hair, and a small beard.]
@@ -965,7 +963,7 @@ Katie: Seriously?
 
 Jake: This is gonna make a wonderful story.
 
-[ Cut. ]
+[Cut.]
 
 David: Yes, I was King David.
 
@@ -1421,7 +1419,7 @@ Dax: I see.
 
 <s id="q-headquarters-2" title="Q Headquarters 2">
 
-[ They materialise back at the Q Headquarters. ]
+[They materialise back at the Q Headquarters.]
 
 Dax: And we’re back in the Q headquarters.
 
@@ -1743,10 +1741,10 @@ or mysticism, lies the road to disaster.
 
 <s id="kai-blanche" title="Kai Blanché">
 
-[ Cut to the room in the Q Headquarters. Kira is there looking bored. ]
+[Cut to the room in the Q Headquarters. Kira is there looking bored.]
 
-[ The door opens. Kai Blanché - a Bajoran, looking in his 50s enters,
-wearing traditional Vadek clothes. ]
+[The door opens. Kai Blanché - a Bajoran, looking in his 50s enters,
+wearing traditional Vadek clothes.]
 
 Kira: [Looking] Hello!
 
@@ -1966,7 +1964,7 @@ Pleena: Well, some people would rather err on naïvety than on cynicism.
 
 [Cut to the room where Q, Blanché, Jadzia, Kira, etc. are.
 
-A woman who looks in her thirties enters - Avigayil. ]
+A woman who looks in her thirties enters - Avigayil.]
 
 Avigayil: Hi, Q, dear, I think you’d like to take a look at that. [She hands
 him a tablet]
@@ -2120,7 +2118,7 @@ do, as I have said.
 <s id="quarks-success" title="Quark’s Success">
 
 [Jadzia is walking towards Quark’s bar and sees Quark standing next to a
-terminal and mumbling. ]
+terminal and mumbling.]
 
 Dax: Hi Quark! Why are you so happy?
 
@@ -2180,7 +2178,7 @@ away, and its sun has an irregular shape.
 Sisko: What? Show it on the screen.
 
 [ The Screen shows a gigantic yellow star shaped like the capital letter “Q”
-(in Sans-Serif) and some planets. ]
+(in Sans-Serif) and some planets.]
 
 Sisko: I don’t believe it.
 
@@ -2415,9 +2413,9 @@ Sisko: Farewell, Q, and thanks for everything.
 
 Q: You’re welcome.
 
-[Q exits through the door. Sisko continues to watch space, thinking. ]
+[Q exits through the door. Sisko continues to watch space, thinking.]
 
-[ END. ]
+[END.]
 
 </s>
 
