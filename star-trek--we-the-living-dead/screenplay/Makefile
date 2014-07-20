@@ -1,10 +1,3 @@
-FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
-		$(DOCS_SCREENPLAY_TEXT) \
-		style.css style-heb.css \
-		README.html
-
-# The-Enemy-English.xhtml \
-
 WORK_BASENAME = Star-Trek--We-the-Living-Dead
 DOCS_BASE = $(WORK_BASENAME) $(WORK_BASENAME)-hebrew
 
