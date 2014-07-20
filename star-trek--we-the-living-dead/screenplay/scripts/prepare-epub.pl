@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 
-use encoding 'utf8';
+use utf8;
 
 use IO::All;
 
