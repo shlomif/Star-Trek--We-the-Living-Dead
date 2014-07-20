@@ -71,8 +71,6 @@ linview: $(DOCS_SCREENPLAY_XHTML_AS_HTML)
 
 epub: $(ENG_EPUB)
 
-EPUB_SCRIPT = scripts/prepare-epub.pl
-
 $(ENG_EPUB): $(DOCS_SCREENPLAY_XHTML) $(EPUB_SCRIPT)
 	perl $(EPUB_SCRIPT) --output $@ $(DOCS_SCREENPLAY_XHTML)
 
