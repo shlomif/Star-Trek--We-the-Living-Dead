@@ -8,8 +8,6 @@ FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
 WORK_BASENAME = Star-Trek--We-the-Living-Dead
 DOCS_BASE = $(WORK_BASENAME) $(WORK_BASENAME)-hebrew
 
-ENG_EPUB = $(WORK_BASENAME).epub
-
 include screenplays_common.mak
 
 SELINA_UPLOAD_TEMP_DEST = temp-star-trek-we-the-living-dead-P9n7ybv3wq2t
