@@ -8,9 +8,9 @@ FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
 WORK_BASENAME = Star-Trek--We-the-Living-Dead
 DOCS_BASE = $(WORK_BASENAME) $(WORK_BASENAME)-hebrew
 
-include screenplays_common.mak
-
 SELINA_UPLOAD_TEMP_DEST = temp-star-trek-we-the-living-dead-P9n7ybv3wq2t
+
+include screenplays_common.mak
 
 all: $(DOCS_SCREENPLAY_XHTML) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
 
