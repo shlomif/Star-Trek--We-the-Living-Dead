@@ -5,9 +5,6 @@ use warnings;
 
 use utf8;
 
-use IO::All;
-use JSON::MaybeXS qw(encode_json);
-
 use Shlomif::Screenplays::EPUB;
 
 my $gfx = 'Star-Trek--We-the-Living-Dead-cover.svg.png';
@@ -26,10 +23,12 @@ my $target_dir = $obj->target_dir;
 
 {
     my $epub_basename = 'Star-Trek--We-the-Living-Dead';
+
     $obj->epub_basename($epub_basename);
 
-    io->file($target_dir . '/' . $obj->json_filename)->utf8->print(
-        encode_json(
+    $obj->output_json(
+        {
+            data =>
             {
                 filename => $epub_basename,
                 title => q/Star Trek: “We, the Living Dead”/,
@@ -93,8 +92,6 @@ my $target_dir = $obj->target_dir;
                     },
                 ],
             },
-        ),
+        },
     );
-
-    $obj->output_json;
 }
