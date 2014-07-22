@@ -32,7 +32,7 @@ my $target_dir = $obj->target_dir;
         encode_json(
             {
                 filename => $epub_basename,
-                title => q/Star Trek: "We, the Living Dead"/,
+                title => q/Star Trek: “We, the Living Dead”/,
                 authors =>
                 [
                     {
@@ -48,7 +48,7 @@ my $target_dir = $obj->target_dir;
                     },
                 ],
                 cover => "images/$gfx",
-                rights => "Creative Commons Attribution ShareAlike Unported (CC-by-3.0)",
+                rights => "Creative Commons Attribution ShareAlike Unported 3.0 (CC-by-sa-3.0)",
                 publisher => 'http://www.shlomifish.org/',
                 language => 'en-GB',
                 subjects => [
