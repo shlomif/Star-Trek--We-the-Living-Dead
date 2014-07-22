@@ -21,13 +21,13 @@ my $obj = Shlomif::Screenplays::EPUB->new(
 );
 $obj->run;
 
-my $filename = $obj->filename;
 my $out_fn = $obj->out_fn;
 my $target_dir = $obj->target_dir;
 
 {
     my $epub_basename = 'Star-Trek--We-the-Living-Dead';
     $obj->epub_basename($epub_basename);
+
     io->file($target_dir . '/' . $obj->json_filename)->utf8->print(
         encode_json(
             {
