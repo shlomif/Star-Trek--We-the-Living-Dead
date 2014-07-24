@@ -12,7 +12,7 @@ my $obj = Shlomif::Screenplays::EPUB->new(
     {
         images =>
         {
-            $gfx => $gfx,
+            $gfx => "images/$gfx",
         },
     }
 );
