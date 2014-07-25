@@ -58,7 +58,8 @@ Jake: OK, yeah.
 
 Dax: Yes, Captain?
 
-Capt. Sisko’s Voice: Commander: can you and Dr. Bashir come to Quark’s
+Capt. Sisko’s Voice: Commander: can you and Dr. Bashir come to
+<a href="http://en.memory-alpha.org/wiki/Quark">Quark’s</a>
 conference room? Find Jake and bring him with you.
 
 Jake: I’m here, dad.
@@ -77,7 +78,8 @@ Bashir: Quark’s conference room? I wonder what’s there.
 
 <s id="essence_of_the_Q_continuum" title="The Essence of the Q Continuum">
 
-[Quark’s conference room. Q is there, as is a stranger middle-aged-looking
+[Quark’s conference room. <a href="http://en.memory-alpha.org/wiki/Q">Q</a> is
+there, as is a stranger middle-aged-looking
 woman. All the cast is there including Quark and his brother. Jake, Dax and
 Bashir enter.]
 
@@ -98,7 +100,8 @@ Q: I have a question for you: as you know, I am omnipotent. Now: can I
 write a computer program that determines if any other computer program
 terminates or not?
 
-Dax: The Halting problem…
+Dax: <a href="http://en.wikipedia.org/wiki/Halting_problem">The Halting
+problem</a>…
 
 Sisko: Yes, Commander, I know. This has logically been proven to be impossible,
 and the proof is very simple. So you cannot do it unless you can somehow
@@ -167,7 +170,9 @@ Q2: In any case, I have eventually converted to a human form when I joined the
 Q Continuum.
 
 Sisko: Very interesting - most interesting. In any case, I’ve just been
-messaged by Captain Krand of the Othello Task Force that he wishes us to
+messaged by Captain <a href="http://stexpanded.wikia.com/wiki/Krand">Krand</a>
+of the
+<a href="http://stexpanded.wikia.com/wiki/Othello_Task_Force">Othello Task Force</a> that he wishes us to
 inspect his ship, before he lets his crew have shore leave. And while this
 fascinates me, I need to juggle some priorities as well.
 
@@ -210,14 +215,19 @@ TODO: FILL IN.
 
 <s id="meet_Katie" title="Meet Katie">
 
-[Close up on the system administrators’ room. To the right there is a row with
+[Close up on the
+<a href="http://en.wikipedia.org/wiki/System_administrator">system
+administrators’</a> room. To the right there is a row with
 three screens and three QWERTY keyboards. To the left there is a library with
 a large selection of books. There are several dolls of furry animals scattered
-around the room, and the room is quite disorganised. Katie is sitting on the
-close QWERTY keyboard and is typing some things.]
+around the room, and the room is quite disorganised.
+<a href="http://stexpanded.wikia.com/wiki/Katie_Jacobson">Katie</a> is sitting
+on the close QWERTY keyboard and is typing some things.]
 
 [Katie is a blonde girl in her early-to-mid twenties. Her face is cute. I
-originally pictured Melissa Joan Hart as playing her.]
+originally pictured
+<a href="https://en.wikipedia.org/wiki/Melissa_Joan_Hart">Melissa
+Joan Hart</a> as playing her.]
 
 [Jake and Bashir enter.]
 
@@ -231,7 +241,7 @@ that we inspect this place.
 [Jake goes over to the shelves to look at the books.]
 
 Katie: Be my guest. Oh! Katie Jacobson [does a salute] at your service. I’m
-originally from Berkeley, California.
+originally from <a href="http://en.wikipedia.org/wiki/Berkeley,_California">Berkeley, California</a>.
 
 Jake: Berkeley? Cool, I remember San-Francisco. So what are you doing here
 now?
@@ -242,11 +252,11 @@ know either or both.
 
 Bashir: Let me guess - Star Fleet Academy.
 
-Katie: Nope - the Technion.
+Katie: Nope - <a href="http://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology">the Technion</a>.
 
 Jake: The… Technion…
 
-Bashir: In Haifa?
+Bashir: In <a href="http://en.wikipedia.org/wiki/Haifa">Haifa</a>?
 
 Katie: Yep.
 
@@ -254,8 +264,8 @@ Jake: But couldn’t you have gone to U. Cal Berkeley, instead?
 
 Katie: I could walk there from my house, yes. But I figured out I needed
 a challenge. And I wanted to learn Hebrew - ya know, the language the Old
-Testament was written in, and the language which the Terran Alphabet was
-invented for, etc.
+Testament was written in, and a dialect of the language which the Terran
+Alphabet was invented for, etc.
 
 Jake: I bet you just wanted to get away from your parents.
 
@@ -320,14 +330,15 @@ your tricorder for a sec?
 
 Bashir: Sure.
 
-[Katie takes out her tricorder, and puts it beside Bashir’s tricorder. They
+[Katie takes out her <a href="http://en.memory-alpha.org/wiki/Starfleet_tricorder">tricorder</a>, and puts it beside Bashir’s tricorder. They
 practically look the same]
 
 Katie: It’s the same tricorder as the Star Fleet one, except for branding.
 Now let me show you something - let’s try to put it in UNIX-mode and use it.
 
 [She takes out the Palm-like pen, and starts writing a few commands. The
-screen shows a screen of IceWM (= a minimal desktop environment for UNIX)
+screen shows a screen of <a href="http://en.wikipedia.org/wiki/IceWM">IceWM</a>
+(= a minimal desktop environment for UNIX)
 with a few windows. Katie invokes a terminal,
 and types the command:
 
@@ -340,8 +351,9 @@ environment in real time]
 
 Jake: Holy cow!
 
-Katie: Yes, still good old UNIX. Which we still studied in school. But
-I breezed through it, because I already knew it when I came there.
+Katie: Yes, still good old <a href="http://en.wikipedia.org/wiki/Unix">UNIX</a>.
+Which we still studied in school. But I breezed through it, because I already
+knew it when I came there.
 
 Bashir: Ahmmm… Katie… would you like to accompany us on a presentation
 by “Q” of the “Q Continuum”?
