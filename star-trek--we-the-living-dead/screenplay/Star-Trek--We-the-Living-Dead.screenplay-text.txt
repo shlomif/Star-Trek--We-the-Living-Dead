@@ -1137,6 +1137,8 @@ Q: We should go over there.
 
 <s id="terran-vampires--meet" title="Meet the Terran Vampires">
 
+<s id="terran-vampires--meet--vampires-love-interest" title="Vampires’ Love Interest">
+
 Shlomo: [Munching] Dvorah, it tastes differently this time.
 
 Dvorah: Yes, I’ve been playing with the ingredients this time.
@@ -1171,6 +1173,10 @@ a toddler. I’m humbled.
 
 [Mosheh, Shlomo and Dvorah chuckle, the rest of the crew smile. Jake
 sits next to Katie on the swing seat.]
+
+</s>
+
+<s id="terran-vampires--meet--overachievers" title="Men are Overachievers">
 
 Worf: So Mr. Abramovich… I mean, Prof. Abramovich… I mean - Your
 Majesty!
@@ -1228,6 +1234,10 @@ Judeans to Babylon. Then I returned here, and saw that my Date tree was
 cut down. I eventually said “whatever” and settled near here ever since.
 
 Jadzia: Wow!
+
+</s>
+
+<s id="terran-vampires--meet--REST" title="Rest of scene.">
 
 Q: Dvorah, BTW, is considered the Terran elder, and thus is the ambassador
 of Earth in the Q continuum.
@@ -1422,6 +1432,9 @@ now she does as a Q.
 
 Dax: I see.
 
+</s>
+
+<!-- End of “terran-vampires-meet-REST” -->
 
 </s>
 
