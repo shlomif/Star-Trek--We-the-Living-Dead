@@ -1235,16 +1235,16 @@ cut down. I eventually said “whatever” and settled near here ever since.
 
 Jadzia: Wow!
 
-</s>
-
-<s id="terran-vampires--meet--REST" title="Rest of scene.">
-
 Q: Dvorah, BTW, is considered the Terran elder, and thus is the ambassador
 of Earth in the Q continuum.
 
 Dvorah: Yeah well, I was appointed as such because I was older than Mosheh
 here, but I wasn’t really the oldest living human. In fact, there are four
 women and two men who are older than me and still alive.
+
+</s>
+
+<s id="terran-vampires--meet--stop-WWII" title="So much suffering">
 
 Katie: I don’t get it!
 
@@ -1264,6 +1264,10 @@ we still often feel that the generation is constantly diminishing and that
 we yearn for the old days, when everything was simpler.
 
 Katie: [Frustrated] Excuses!
+
+</s>
+
+<s id="terran-vampires--meet--moses-tells-his-story" title="Moses tells his story">
 
 Jadzia: Regardless of what you could have done to prevent past problems, I
 think we’d be interested in hearing your stories, seeing that you’re Moses
@@ -1293,7 +1297,7 @@ I lacked assertiveness, we wandered around the desert. We eventually found
 another small tribe of Hebrew Semitic people (about 500) who called
 themselves “Bney Yisra’el”. I taught them the Alphabet, gave them the Ten
 Commandments, and instructed them to “invade” Canaan and convert the
-Canaan to the one true way.
+Canaanites to the one true way.
 
 ++++: It was Joshua, Kalev and other leaders of the Yisra’elim who did it.
 I myself followed my brother’s trail to Assyria, to see what he’s been
@@ -1315,7 +1319,7 @@ forever, alive.
 
 Kira: Q!
 
-Mosheh: No, not Q himself, but one of the Qs. At the time we felt it was
+Mosheh: No, not Q himself, but one of the Qs. At the time, we felt it was
 indeed a curse, because we felt our death was the natural way. But it may also
 have been a blessing.
 
@@ -1333,6 +1337,10 @@ they accumulated more as time went by. By the time the Babylonian exile ended,
 the Jews had over 600 individual regulations. And this was only the start,
 as Jewish scholars were obsessed with making Jewish life even harder.
 
+</s>
+
+<s id="terran-vampires--meet--shlomo-tells-his-story" title="Shlomo tells his story">
+
 Shlomo: In any case, I met Mosheh and my father shortly after my
 apparent-death. In fact, I became a vampire. The Q continuum had a rule that a
 vampire who survived for 300 years would become an immortal, who cannot be
@@ -1340,12 +1348,16 @@ killed. It does not mean one cannot feel pain, or become injured or be subdued,
 but it’s still better than nothing.
 
 +++: What happened to my father (David) was that he was once walking in the
-street with a friend, when he got mugged and stabbed to death. He claimed that
-it was not fair and that he should have become an immortal, but Q would not have
-it. So he ended up as a living dead over at the Planet of the Hebrews.
+street with a friend, when he got mugged and was stabbed to death. He claimed
+that it was not fair and that he should have become an immortal, but Q would
+not have it. So he ended up as a living dead over at the Planet of the Hebrews.
 
 +++: I, on the other hand, had the fortune not to be killed in my first 300
 years, and so became an immortal.
+
+</s>
+
+<s id="terran-vampires--vampires-conspiracy" title="The Vampires’s Conspiracy">
 
 Mosheh: Indeed. The vampires and immortals still kept their conspiracy.
 The leaders had a grand meeting every 40 years or so, and we communicated
@@ -1371,6 +1383,10 @@ be “Vampire-art”.
 Katie: I still think you people suck.
 
 Shlomo: Katie, I wish we didn’t.
+
+</s>
+
+<s id="terran-vampires--the-vampires-love-lives" title="The Vampires’ Love Lives">
 
 Jadzia: Well, never mind that. Just something that interests me: your love
 lives. As thousands-of-years-old. Gossip, please!
@@ -1424,13 +1440,16 @@ Some of my husbands and children were or have become vampires - some of them
 are living elsewhere, and it’s naturally hard for me to tell who were my
 descendants and how, without querying the Q continuum database. I still
 remember my excitement with my first grandchild, and my first great-grandchild,
-but I didn’t know my 10th-level descendent was born until a long time back.
+but I didn’t know my 10th-level descendent was born until a long time after
+that.
 
 +++: Naturally, I could not come to her and say “Hi! I’m your
 great-times-nine grandmother.” She wouldn’t have believed me for once, though
 now she does as a Q.
 
 Dax: I see.
+
+<!-- End of “The Vampires’ Love Lives” -->
 
 </s>
 
@@ -1482,8 +1501,8 @@ George: Most probably. I’m about 5 milliard years old.
 
 Katie: Bleh!! You’re older than my planet!
 
-George: I guess, but I’m not older than Q. But still more mature than him, I
-think.
+George: I guess, but I’m not older than Q. However, I’m still more mature than
+him, I think.
 
 +++: My race is 10 milliard years old, and we’re older than the Q Continuum.
 I’m George, by the way.
@@ -1561,9 +1580,9 @@ Odo: I’ll join you.
 
 Kira: Katie, are you all-right?
 
-Katie: Sure. I’ve made new friends, who seem to be Bio-Tech geniuses. I’m
-holding a 5 Giga-Years-old-cat in my hands, and I’m still on my first date
-with Jake. Life can’t get much better than this.
+Katie: Sure: I’ve made new friends, who seem to be Bio-Tech geniuses; I’m
+holding a 5 Giga-Years-old-cat in my hands; and I’m still on my first date
+with Jake. Life can’t get much better than this!
 
 +++: Tata!
 
