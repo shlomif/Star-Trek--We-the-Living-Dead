@@ -18,8 +18,6 @@ my $obj = Shlomif::Screenplays::EPUB->new(
 );
 $obj->run;
 
-my $out_fn = $obj->out_fn;
-
 {
     my $epub_basename = 'Star-Trek--We-the-Living-Dead';
 
