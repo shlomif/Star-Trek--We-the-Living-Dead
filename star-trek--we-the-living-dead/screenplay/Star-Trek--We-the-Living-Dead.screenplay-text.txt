@@ -78,6 +78,8 @@ Bashir: Quark’s conference room? I wonder what’s there.
 
 <s id="essence_of_the_Q_continuum" title="The Essence of the Q Continuum">
 
+<s id="meet_Q2" title="Meet Q2">
+
 [Quark’s conference room. <a href="http://en.memory-alpha.org/wiki/Q">Q</a> is
 there, as is a stranger middle-aged-looking
 woman. All the cast is there including Quark and his brother. Jake, Dax and
@@ -129,6 +131,11 @@ Q: Oh, no. This time you were right. Yes, I am not omnipotent. I am only very
 technologically advanced. And yes, I am a humanoid.
 
 [Cut]
+
+</s>
+
+<s id="how_old_are_Q_and_Q2" title="How old are Q and Q2?">
+
 
 Sisko: I suppose you belong to the human master-race that created all other
 races.
@@ -203,6 +210,8 @@ Jake: Thanks!
 
 </s>
 
+</s>
+
 <s id="in_the_Othello_Task_Force" title="In the Othello Task Force">
 
 [The Othello Task Force’s ship - a great hall full of busy people. They are
@@ -226,7 +235,7 @@ on the close QWERTY keyboard and is typing some things.]
 
 [Katie is a blonde girl in her early-to-mid twenties. Her face is cute. I
 originally pictured
-<a href="https://en.wikipedia.org/wiki/Melissa_Joan_Hart">Melissa
+<a href="http://en.wikipedia.org/wiki/Melissa_Joan_Hart">Melissa
 Joan Hart</a> as playing her.]
 
 [Jake and Bashir enter.]
@@ -396,6 +405,8 @@ Jake: Katie included… mmmmm…
 
 <s id="history_of_the_Q_continuum" title="History of the Q Continuum">
 
+<s id="Q_home_planet" title="Q’s Home Planet">
+
 [Cut to Quark’s holodeck - everyone is there.]
 
 Q: Greetings people. I have given Quark a holodeck module for a demonstration
@@ -455,7 +466,11 @@ no one used them. So I told the kids to come up with a good writing system.
 They decided to collect 26 symbols of the signature signs of some people
 in the village, and figure out a way to write using it.
 
-+++: Eventually they invited us all to a presentation.
+</s>
+
+<s id="Englishtant_kids_prez" title="The Énglishtant Kids Presentation">
+
+Q: Eventually they invited us all to a presentation.
 
 [The holodeck shows a long shot of an Énglishtant field. One kid is
 showing the Latin alphabet]
@@ -504,6 +519,10 @@ I want something to facilitate calculations. And let’s tell the world about
 it. I want it all, and I want it now!
 
 [The crowd cheers.]
+
+</s>
+
+<s id="Englishtants_progress_1" title="The Énglishtant’s Further Progress">
 
 Q: [In the holodeck] Three days after this, some people invented the decimal
 system. We sent delegates to other villages and countries bringing the news of
@@ -576,6 +595,10 @@ after all.
 
 Dax: Wow!
 
+</s>
+
+<s id="Qs_congregation_of_dead_humanoids" title="Q’s Congregation of Humanoids Who Died">
+
 Q: In any case, fast forward to the present - this happened about 20 days ago.
 
 [The holodeck shows a very large hall crowded with millions of different
@@ -598,6 +621,10 @@ Kobra Mix of the Black Eyed Peas’ “Hey Mama!” song</a>]
 Fergey’s Voice: Rip it, mama!
 
 [Music starts playing.]
+
+</s>
+
+<s id="Qs_invitation" title="Q’s Invitation">
 
 [Cut to the people at the holodeck - they are amused and seem like they
 find it hard to believe.]
@@ -688,6 +715,9 @@ Q: But two strips should be enough - there you go.
 
 </s>
 
+
+</s>
+
 <!--
 TODO: FILL IN - some scenes before the visit.
 -->
@@ -701,11 +731,11 @@ Q: Are everyone ready?
 Dax: I think so. Yes, everyone’s here.
 
 Q2: OK - please don’t be alarmed as the surroundings changes incrementally.
-It’s a trick we do to make the teleportation change easier.
+It’s a trick we do to make the teleportation transition easier to fathom.
 
 Dax: Roger.
 
-[The surroundings change and eventually change to a well-lit large room.
+[The surroundings morph and eventually change to a well-lit large room.
 There’s a large window to the left.]
 
 Dax: So I presume that’s part of the Q Continuum headquarters? According to
@@ -721,7 +751,7 @@ none of which obscure the views. They are shaped like a trumpet, and there
 are robots going up and down their tall parts.
 
 There is a lot of trees and forests intermingled. There are large roads made
-of very clean stone, with some alien life forms, most resembling mammals
+of very clean stone, with some alien life forms, mostlt resembling mammals
 walking in between them.]
 
 Kira: [Not enthusiastically] Impressive, I say.
@@ -796,7 +826,7 @@ Displaying that message around the galaxy was her idea. But it was a
 simplification.
 
 Bashir: Ah hah. By the way, Q2, I would be interested to know what was your
-original form like?
+original life-form like?
 
 Q2: You can certainly know. Look here [points to a screen].
 
@@ -806,7 +836,7 @@ surrounding, eventually going to a city.]
 Bashir: An opossum?
 
 Q2: Indeed. I still miss it in a way. Giving birth as “an opossum” is very
-painless. In my human forms, after the third time I gave birth, I couldn’t
+painless. In my human form, after the third time I gave birth, I couldn’t
 take it any-more and instead used artificial pregnancies.
 
 Bashir: Wow! I think I know what to do to implement exactly that…
@@ -908,7 +938,7 @@ Ken Thompson: At least it’s new material for everybody who hears it the first
 time. Seriously now: we didn’t get bored here, but a nice change of scenery
 is always good. We, the living dead, thrive on fresh meat.
 
-Linus: And freshmeat-dot-net.
+Linus: And <a href="http://en.wikipedia.org/wiki/Freecode">freshmeat-dot-net</a>.
 
 Katie: Heh. Man, this is so exciting. Just out of curiosity - what are you
 doing here? Hacking on the code of the universe?
@@ -1011,7 +1041,7 @@ for “philosopher”) studies various units of knowledge, and passes tests, and
 gets credit. But you can study anything you want in any field. The more units
 you have the more prestigious you are. I’ve contributed to my own share of
 inventions: the camera, the hyper-drive, a few programming languages, other
-stuff and a lot of humane things.
+stuff like that, and a lot of humane things.
 
 Jake: Wow, cool.
 
