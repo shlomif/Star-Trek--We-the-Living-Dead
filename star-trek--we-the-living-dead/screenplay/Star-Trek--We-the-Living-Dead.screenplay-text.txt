@@ -522,7 +522,7 @@ it. I want it all, and I want it now!
 
 </s>
 
-<s id="Englishtants_progress_1" title="The Énglishtant’s Further Progress">
+<s id="Englishtants_progress_1" title="The Énglishtants’ Further Progress">
 
 Q: [In the holodeck] Three days after this, some people invented the decimal
 system. We sent delegates to other villages and countries bringing the news of
@@ -751,7 +751,7 @@ none of which obscure the views. They are shaped like a trumpet, and there
 are robots going up and down their tall parts.
 
 There is a lot of trees and forests intermingled. There are large roads made
-of very clean stone, with some alien life forms, mostlt resembling mammals
+of very clean stone, with some alien life forms, mostly resembling mammals
 walking in between them.]
 
 Kira: [Not enthusiastically] Impressive, I say.
