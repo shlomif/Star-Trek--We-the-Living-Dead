@@ -33,7 +33,7 @@ then
 elif test "$cmd" = "build"
 then
     export SCREENPLAY_COMMON_INC_DIR="$PWD/screenplays-common"
-    cd selina-mandrake/screenplay/
+    cd star-trek--we-the-living-dead/screenplay/
     make
     make test
 fi
