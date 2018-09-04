@@ -19,21 +19,32 @@ shift
 if false
 then
     :
+
 elif test "$cmd" = "before_install"
 then
     sudo apt-get update -qq
-    sudo apt-get install -y ack-grep cpanminus docbook-defguide docbook-xsl libperl-dev libxml-libxml-perl libxml-libxslt-perl make perl tidy xsltproc
+    sudo apt-get install -y ack-grep cpanminus dbtoepub docbook-defguide docbook-xsl libperl-dev libxml-libxml-perl libxml-libxslt-perl make perl tidy xsltproc
     sudo dpkg-divert --local --divert /usr/bin/ack --rename --add /usr/bin/ack-grep
     cpanm local::lib
+
 elif test "$cmd" = "install"
 then
     cpanm --notest Alien::Tidyp YAML::XS
     bash -x bin/install-tidyp-systemwide.bash
     cpanm --notest HTML::Tidy
+    h=~/Docs/homepage/homepage
+    mkdir -p "$h"
+    git clone https://github.com/shlomif/shlomi-fish-homepage "$h/trunk"
 elif test "$cmd" = "build"
 then
     export SCREENPLAY_COMMON_INC_DIR="$PWD/screenplays-common"
     cd star-trek--we-the-living-dead/screenplay/
-    make
-    make test
+    m()
+    {
+        make DBTOEPUB="/usr/bin/ruby $(which dbtoepub)" \
+            DOCBOOK5_XSL_STYLESHEETS_PATH=/usr/share/xml/docbook/stylesheet/docbook-xsl-ns \
+        "$@"
+    }
+    m
+    m test
 fi

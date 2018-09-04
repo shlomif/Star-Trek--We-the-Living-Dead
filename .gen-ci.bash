@@ -8,4 +8,4 @@
 
 set -e
 set -x
-ci-generate --param 'screenplay_subdir=star-trek--we-the-living-dead/screenplay/'
+ci-generate --theme XML-Grammar-Fiction --param 'screenplay_subdir=star-trek--we-the-living-dead/screenplay/'
