@@ -1,6 +1,6 @@
 <s id="top" lang="en" title="Star Trek - We the Living Dead">
 
-[Note - This is not a real episode of <i>Star Trek Deep Space Nine</i> but one
+[Note - This is not a canonical episode of <i>Star Trek Deep Space Nine</i> but one
 invented by <a href="http://www.shlomifish.org/">Shlomi Fish</a>. Being
 a piece of Star Trek fan-fiction, Fish does not make a direct claim to some of
 the characters and concepts presented in this story.]
@@ -853,7 +853,7 @@ Dax: Are you too busy?
 
 Q2: No. Busy people are unproductive. We are very productive and so we’re
 almost never busy. But I need some rest, and think I’m no longer needed here. Q
-can always find me.
+can always find me, anyway.
 
 Dax: Sure.
 
