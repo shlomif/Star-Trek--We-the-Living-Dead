@@ -1821,7 +1821,7 @@ subjectivity or mysticism, lies the road to disaster.
 [Cut to the room in the Q Headquarters. Kira is there looking bored.]
 
 [The door opens. Kai Blanché - a Bajoran, looking in his 50s enters,
-wearing traditional Vadek clothes.]
+wearing traditional Vaedek clothes.]
 
 Kira: [Looking] Hello!
 
@@ -1868,7 +1868,7 @@ Kai Blanché: Well, following a few prophecies and some interpretations of
 them, I began to investigate games. My collaborators and I started to analyse
 them mathematically and create as many different variants of games, puzzles,
 riddles and other diversions as we could think of. I grew a substantial
-cult (well sort-of) collectively known as “Vadek Blanché” that worked on it,
+cult (well sort-of) collectively known as “Vedek Blanché” that worked on it,
 and we started developing what is now known as “Computer Science” - algorithms,
 proofs of correctness, Turing models, etc.
 
@@ -1933,7 +1933,7 @@ and “The Wandering Jew”.
 Bashir: Heh, cool. But really, what is the Invisible famous for?
 
 Kai Blanché: For example, he is the one who suggested Artaxerxes to bring
-Vashti to the guests.
+Vashti to the guests. [ <a href="https://shlomif.livejournal.com/62243.html">Reference</a> ].
 
 Bashir: Seriously? How come he interfered so much with the Earth’s population?
 Doesn’t the Q continuum know better than that.
@@ -2202,7 +2202,7 @@ Dax: Hi Quark! Why are you so happy?
 Quark: Remember the film I took? Rom helped me edit it, and I’ve been
 distributing and selling it online. I have made a fortune.
 
-[Camera zooms to reveal Brunt in the background.]
+[Camera zooms to reveal <a href="https://memory-alpha.fandom.com/wiki/Brunt">Brunt</a> in the background.]
 
 Brunt: Brunt, FCA.
 
