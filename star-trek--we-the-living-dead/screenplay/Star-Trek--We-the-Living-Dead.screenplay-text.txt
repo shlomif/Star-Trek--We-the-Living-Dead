@@ -32,7 +32,7 @@ Jake: What’s wrong?
 Bashir: I can recognise this ship anywhere. It’s OTF-1 - Othello
 Task Force.
 
-Jake: Othello Task Force? What’s that.
+Jake: Othello Task Force? What’s that?
 
 Bashir: They’re mercenaries. Only they’re really good mercenaries. Really
 really good mercenaries. Too good. Too good until the whole of Star Fleet
@@ -82,7 +82,8 @@ Bashir: Quark’s conference room? I wonder what’s there.
 
 [Quark’s conference room. <a href="http://en.memory-alpha.org/wiki/Q">Q</a> is
 there, as is a stranger middle-aged-looking
-woman. All the cast is there including Quark and his brother. Jake, Dax and
+woman ( <a href="https://stexpanded.fandom.com/wiki/Q2">Q2</a> ).
+All the cast is there including Quark and his brother. Jake, Dax and
 Bashir enter.]
 
 Dax: Q!
@@ -135,7 +136,6 @@ technologically advanced. And yes, I am a humanoid.
 </s>
 
 <s id="how_old_are_Q_and_Q2" title="How old are Q and Q2?">
-
 
 Sisko: I suppose you belong to the human master-race that created all other
 races.
@@ -537,7 +537,7 @@ Katie: Heh.
 Q: We advanced quickly. A year later we already had steam. We discovered our
 planet was round, and circled the globe within 10 years. We defined a
 constitution, and founded mass-production and the free market. I kept asking
-for  more  and more challenges to accomplish. Here is what happened after 40
+for more and more challenges to accomplish. Here is what happened after 40
 years:
 
 [The holodeck shows Q standing on the hill where he had given the speech
@@ -659,7 +659,7 @@ Q: I could do that too.
 
 Katie: He could…
 
-Sisko: That’s enough, Miss Jacobson! OK, Major, you can escort these
+Sisko: That’s enough, Ms. Jacobson! OK, Major, you can escort these
 people. Q: would it be OK if my crew brought their phasers with them?
 
 Q: Their phasers? Of course. They can also bring some photon torpedoes if they
@@ -832,7 +832,7 @@ original life-form like?
 
 Q2: You can certainly know. Look here [points to a screen].
 
-[The screen shows a large number of Opossum-like creatures on a Jungle-like
+[The screen shows a large number of Opossum-like animals on a Jungle-like
 surrounding, eventually going to a city.]
 
 Bashir: An opossum?
@@ -870,7 +870,7 @@ you’d like to meet?
 
 Katie: Can I go first? [enthusiastically]
 
-Worf: Miss Jacobson…
+Worf: Ms. Jacobson…
 
 Dax: Sure you can, Katie!
 
