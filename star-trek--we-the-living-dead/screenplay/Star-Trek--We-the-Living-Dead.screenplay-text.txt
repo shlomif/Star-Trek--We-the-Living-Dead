@@ -1442,7 +1442,7 @@ women were treated as their husband’s property. Even the Hebrew word
 for husband is “owner” and the one for wife is “woman” until this very day.
 
 +++: Anyway, it took time for love to take hold after we became conscious.
-Not to mention that, as opposed to Greek, Israelis often considered it a nice
+Not to mention that, as opposed to the Greeks, Israelis often considered it a nice
 optional bonus for marriage-life and not an absolute requirement.
 
 +++: As such, I noticed that I could not… [TODO - fill in.]
@@ -1510,7 +1510,7 @@ Q: Sure, I’ve got all the time you want.
 
 Kira: OK, done then. We’ll take a break.
 
-[There’s a cat lying on a table there content. He’s half-white and half-grey.]
+[There’s a cat ("George") lying on a table there, content. He’s half-white and half-grey.]
 
 Katie: Oh, look! A cat. [She approaches the cat and starts petting it.]
 
@@ -1628,8 +1628,6 @@ with Jake. Life can’t get much better than this!
 
 TODO : Add:
 - “If you like being a humanoid, you should try being a cat.”
-- Kai Blanché
-- http://en.wikipedia.org/wiki/Kahless as a Living Dead.
 -->
 
 <s id="using-a-notebook-properly" title="Using a Notebook Properly">
@@ -2099,7 +2097,7 @@ want to miss it.
 
 Quark: Yes, and it’s high time we merged the two sub-plots in the future
 movie. “Too much of a good thing is a bad thing. But only for your customers”.
-Rule of acquisition No. 172.
+Rule of Acquisition No. 172.
 
 </s>
 
