@@ -17,13 +17,13 @@ the characters and concepts presented in this story.]
 
 <s id="watching_space" title="Watching Space">
 
-[Bashir, Dax and Jake are standing watching the space.]
+[Bashir, Dax and Jake are standing watching space.]
 
 Bashir: Ah, space.
 
 Dax: Yep, space. Nothing but nothing all around.
 
-Jake: Hey look at that. (A ship gets out of warp at the distance).
+Jake: Hey look at that. [A ship gets out of warp at the distance].
 
 Bashir: Oh no.
 
@@ -443,7 +443,7 @@ No’ach who had three sons.
 
 Katie: Shem, Cham and Yepheth? [in Modern Hebrew pronunciation]
 
-Q: You guessed it. He was a quirky, paranoid fellow. At one point he sensed
+Q: You guessed it. He was a quirky, paranoid, fellow. At one point he sensed
 a storm coming, and believed that the world was coming to an end. So he, his
 wife, his sons, and all of his livestock travelled up a nearby mountain, and
 waited for the storm to end. [Pictures are shown]
@@ -470,7 +470,7 @@ in the village, and figure out a way to write using it.
 
 </s>
 
-<s id="Englishtant_kids_prez" title="The Énglishtant Kids Presentation">
+<s id="Englishtant_kids_prez" title="The Énglishtant Kids’ Presentation">
 
 Q: Eventually they invited us all to a presentation.
 
@@ -496,7 +496,7 @@ Kids: Haqol Qara! Haqol Qara!
 
 Q in the holodeck: The voice has called. The voice has called.
 
-Q in the Énglishtant scene: Chaku rega! Ooooof!
+Q in the Énglishtant scene: Chaku rega! Ooooof! [ = “wait a moment! damn!” ]
 
 [Eventually he steps on a mound saying]
 
@@ -517,7 +517,7 @@ and puts him there.]
 
 Q: [In Énglish] Vampires of the world - unite! These kids have invented the
 Aa-Ba-Tsa, which will make writing easy. I want an Aa-Ba-Tsa for Hebrew, too.
-I want something to facilitate calculations. And let’s tell the world about
+Moreover, I want something to facilitate calculations. And let’s tell the world about
 it. I want it all, and I want it now!
 
 [The crowd cheers.]
@@ -809,10 +809,10 @@ Dax: And what about that woman of the humanoid master-race (the
 Énglishtants, I presume) told us about the master race dying and
 all?
 
-Q: Oh that. That was The Symbul [pronounced “Té Symbul”]…
+Q: Oh that. That was <a href="https://stexpanded.fandom.com/wiki/The_Symbul">The Symbul</a> [pronounced “Té Symbul”]…
 
 Katie: The Symbul, wait a second! [checks her laptop]. Hmmm… a very powerful
-sorceress in the Forgotten Realms world; an omni-potent goddess in the Plarian
+sorceress in <a href="https://forgottenrealms.fandom.com/wiki/Main_Page">the Forgotten Realms</a> world; an omni-potent goddess in the Plarian
 mythology; and the list goes on.
 
 Dax: So she is one of your most powerful Qs?
@@ -909,7 +909,7 @@ Q: Welcome to the Planet of the Hebrews.
 
 Jake: Planet of the Jews?
 
-Q: I said “Hebrews” not “Jews”. These include many ancient Hebrew-speaking
+Q: I said “Hebrews” - not “Jews”. These include many ancient Hebrew-speaking
 people: Canaanite, Phoenician, Edomi, Amoni, Midyani, etc. And yes - Israelites
 and Jews.
 
@@ -1228,7 +1228,7 @@ most of the time here.
 
 Jadzia: And you are?
 
-Dvorah: I’m Dvorah.
+Dvorah: I’m <a href="https://en.wikipedia.org/wiki/Deborah">Dvorah</a>.
 
 Bashir: Dvorah the Prophet?
 
@@ -1360,7 +1360,7 @@ here and asked me if I was willing to become an Israelite. The conversation was
 very funny. I asked them what would being an Israelite entail, and why it
 was important. Eventually, they decided I was too smart for them, and called
 upon Joshua. He decided that I was all-right, and that he wouldn’t mind having
-me here. So I stayed here as one of the Israelite’s leaders.
+me here. So I stayed here as one of the Israelites’ leaders.
 
 Mosheh: Judaism continued to evolve after what I told them. See, I gave the
 Israelites the Ten Commandments, which were an early, and not a very good,
